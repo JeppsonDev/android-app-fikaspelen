@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FikaSpelen</string>
+    <string name="game_rules">
+        Välkommen till FIKA spelen! Spelet går ut på att hitta produkterna som visas
+        när spelet startar för att samla ihop det perfekta fikat!
+    </string>
+    <string name="game_scan">
+        När du ser en produkt, scanna dess kod på baksidan med hjälp av telefon kameran!
+        Hitta alla 10 produkter och scanna dem för att vinna! Var snabb dock, då det går på tid!
+    </string>
+    <string name="spela">Spela</string>
+    <string name="om">Om</string>
+    <string name="spelregler">Spelregler</string>
+    <string name="about">
+        Fikaspelen är utvecklat av Jesper Byström på Umeå Universitet för Utveckling av mobila applikationer.
+        <br></br><br></br>Syftet är att skapa en egen gjord applikation med hjälp av sensorer i ett Android API som till exempel
+        en kamera. <br></br><br></br>Fikaspelen använder kameran för att skanna barcodes på produkter.
+    </string>
+    <string name="result">Resultat</string>
+    <string name="play_again">Spela igen</string>
+    <string name="to_main_menu">Till huvudmenyn</string>
+</resources>
