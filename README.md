@@ -1,4 +1,4 @@
 # android-app-fikaspelen
 Fikaspelen is a game about finding items to host a fika party by scanning barcodes
 
-![Screenshot](https://imgur.com/2dq6unx)
+![Screenshot](fikaspelen.png)
